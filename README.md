@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Lang
 I cant programing!
 ## Last use lang
-HTML, JS, CSS, C#, Windows Batch
+HTML, JS, CSS, C#, Windows Batch, Shell Script
 
 
 ![rank](https://github-readme-stats.vercel.app/api?username=sim1222)
