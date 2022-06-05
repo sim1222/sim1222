@@ -20,5 +20,5 @@ I cant programing!
 HTML, JS, TS, CSS, C#, Python, Windows Batch, Shell Script
 
 
-![rank](https://github-readme-stats.vercel.app/api?username=sim1222)
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sim1222&layout=compact)
+![rank](https://github-readme-stats.vercel.app/api?username=sim1222&theme=github_dark)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sim1222&layout=compact&theme=github_dark)
