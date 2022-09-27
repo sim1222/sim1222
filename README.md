@@ -1,18 +1,12 @@
 # Hi 👋, I'm sim1222, aka こけっち
 
-### A otaku developer
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_kokt?color=%23469BF8&style=social">
 
-[![sim1222](https://github-profile-trophy.vercel.app/?username=sim1222)](https://github.com/ryo-ma/github-profile-trophy)
+### A otaku developer
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [Misskey](https://github.com/misskey-dev/misskey)
-
-### Connect with me:
-
-<a href="https://twitter.com/_kokt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kokt" height="30" width="40" /></a>
-</p>
-
 
 <table><tr><td valign="top" width="33%">
 
@@ -99,9 +93,6 @@
 </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
