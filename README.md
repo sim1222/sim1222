@@ -1,6 +1,8 @@
 # Hi 👋, I'm sim1222, aka こけっち
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_kokt?color=%23469BF8&style=social">
+<a href="http://twitter.com/_kokt" target="_blank" rel="noreferrer">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_kokt?color=%23469BF8&style=social">
+</a>
 
 ### A otaku developer
 
